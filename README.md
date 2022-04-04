@@ -12,8 +12,11 @@ The data provided for this assignment was retrieved from the following websites:
 ## Resources
 
 ## Technologies
+* Panel
+* PyViz
 
 ## Instructions
+The first step to building the dashboard is to work out all of the calculations and visualizations in an [analysis notebook](). Once the code is running properly, it can be copied over to a dashboard code and used with Panel to create the final layout. 
 
 ## Contributors
 Chantal Garnett
