@@ -2,7 +2,8 @@
 PyViz Assignment - Pythonic Monopoly,
 building a prototype dashboard to analyze the Toronto Real Estate market.
 
-img < 
+![image](https://user-images.githubusercontent.com/99493522/162517640-5c9c26b6-3aaf-4466-938e-501fd7a6c894.png)
+
 
 ## Background
 The goal of this dashboard is to provide charts, maps, and interactive visualizations that help customers explore the data and determine if they want to invest in rental properties in Toronto. 
@@ -33,26 +34,53 @@ The first step to building the dashboard is to work out all of the calculations 
 Here you will find an interactive Neighbourhood Map with the average prices per neighbourhood.\
 Use the **zoom feature** to locate specific areas. 
 
-### Yearly Analysis includes: 
+![image](https://user-images.githubusercontent.com/99493522/162515975-63db54a7-7b18-4450-821f-c16ced328009.png)
+
+
+### Yearly Analysis: 
 The number of dwelling types per year from the years 2001, 2006, 2011 and 2016 presented as bar charts.
+
+
+![image](https://user-images.githubusercontent.com/99493522/162516249-015288d0-940a-4140-b8e1-2bb4eec53baa.png)
+![image](https://user-images.githubusercontent.com/99493522/162515788-112d92a1-4f45-466c-a4bf-8cf7958de78d.png)
+![image](https://user-images.githubusercontent.com/99493522/162516149-d19e9c52-0f1c-4779-ba53-055c129916a7.png)
+![image](https://user-images.githubusercontent.com/99493522/162515899-c43fba0b-4fdb-4335-a5f7-96ab41b8c961.png)
+
+
+
  
-### Shelter Analysis includes: 
+### Shelter Analysis: 
 Average monthly shelter costs in Toronto per year.
 Line charts provided allow you to visualize the average (mean) shelter cost for owned and rented dwellings per year to understand rental income trends over time. 
 
-### Neigbourhood Analysis includes:
+![image](https://user-images.githubusercontent.com/99493522/162515405-c74b0919-1298-4c68-9333-21274a06371f.png)
+![image](https://user-images.githubusercontent.com/99493522/162515352-cdcf5974-7a5f-47ed-8d66-75f553300093.png)
+
+### Neigbourhood Analysis:
 Average house value per year presented as a line chart for an investor to better understand the sales price of the rental property over time. 
+
+![image](https://user-images.githubusercontent.com/99493522/162516498-db31eee0-0a86-4cc0-baa1-f1cd8d1654da.png)
 
 Average prices by neighbourhood presented as an interactive line chart that compares house values by neighbourhood.\
 **Use the drop down box to select the desired neighbourhood.** 
 
-Number of dwelling types per year per neigbourhood presented as an interactive bar chart to provide investors a tool to understand the evolution of dwelling types over the years.\
+![image](https://user-images.githubusercontent.com/99493522/162516550-3b192388-c33f-4cd3-9d9e-ec229ed7ce64.png)
+
+Number of dwelling types per year per neigbourhood presented as an interactive bar chart to provide investors a tool to understand the evolution of dwelling types over the years.
 **Use the drop down box to select the desired neighbourhood.**
 
-### Most Expensive Neighbourhoods 
+
+
+![image](https://user-images.githubusercontent.com/99493522/162516612-db5b773b-fbf0-4659-aa81-0a676a2246ec.png)
+
+
+### Most Expensive Neighbourhoods: 
 The top 10 most expensive neighbourhoods are presented as a bar chart. **Hover over the bars to reveal more information.**
 
 The mean house value for each neighbourhood was calculated and then sorted to obtain the top 10 most expensive neighbourhoods on average. 
+
+![image](https://user-images.githubusercontent.com/99493522/162515631-15832f09-28f1-4b78-a937-fe77c2e64cf8.png)
+
 
 ## Contributors
 Chantal Garnett
