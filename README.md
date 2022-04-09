@@ -2,7 +2,7 @@
 PyViz Assignment - Pythonic Monopoly,
 building a prototype dashboard to analyze the Toronto Real Estate market.
 
-img< https://github.com/ChantalAG/PyViz-Homework/blob/main/Toronto.jpg >
+<img src= https://github.com/ChantalAG/PyViz-Homework/blob/main/Toronto.jpg height = 400, width = 800>
 
 ## Background
 The goal of this dashboard is to provide charts, maps, and interactive visualizations that help customers explore the data and determine if they want to invest in rental properties in Toronto. 
@@ -21,7 +21,6 @@ The data provided for this assignment was retrieved from the following websites:
 * Jupyter Notebook
 * Python
 * Pandas
-* Panel
 * Mapbox API
 
 ## Instructions
