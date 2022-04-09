@@ -13,8 +13,8 @@ The data provided for this assignment was retrieved from the following websites:
 * [Census Profile, 2016 Census - Toronto Metropolitan Area, Ontario and Canada](https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CMACA&Code1=535&Geo2=PR&Code2=01&SearchText=toronto&SearchType=Begins&SearchPR=01&B1=All&TABID=1&type=0)
 
 ## Resources
-* toronto_neighbourhoods_census_data.csv
-* toronto_neighbourhoods_coordinates.csv
+* [toronto_neighbourhoods_census_data.csv](https://github.com/ChantalAG/PyViz-Homework/blob/main/Files/toronto_neighbourhoods_census_data.csv)
+* [toronto_neighbourhoods_coordinates.csv](https://github.com/ChantalAG/PyViz-Homework/blob/main/Files/toronto_neighbourhoods_coordinates.csv)
 
 
 ## Technologies
@@ -24,7 +24,7 @@ The data provided for this assignment was retrieved from the following websites:
 * Mapbox API
 
 ## Instructions
-The first step to building the dashboard is to work out all of the calculations and visualizations in an [analysis notebook](). Once the code was running properly, it was copied over to a [dashboard code]() and used with Panel to create the final layout. 
+The first step to building the dashboard is to work out all of the calculations and visualizations in an [analysis notebook](https://github.com/ChantalAG/PyViz-Homework/blob/main/rental_analysis.ipynb). Once the code was running properly, it was copied over to a [dashboard code](https://github.com/ChantalAG/PyViz-Homework/blob/main/dashboard.ipynb) and used with Panel to create the final layout. 
 
 **In the dashboard you can navigate through the tabs to find the following information on Toronto Real Estate from 2001 to 2016:**
 
